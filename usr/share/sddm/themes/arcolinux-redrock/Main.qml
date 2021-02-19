@@ -109,7 +109,7 @@ Rectangle {
 
             Text {
                 text: "Sleep"
-                color: "#dddddd"
+                color: "#eeeeee"
                 anchors.horizontalCenter: parent.horizontalCenter
             }
         }
@@ -128,7 +128,7 @@ Rectangle {
 
             Text {
                 text: "Restart"
-                color: "#dddddd"
+                color: "#eeeeee"
                 anchors.horizontalCenter: parent.horizontalCenter
             }
         }
@@ -150,7 +150,7 @@ Rectangle {
 
             Text {
                 text: "Shut Down"
-                color: "#dddddd"
+                color: "#eeeeee"
                 anchors.horizontalCenter: parent.horizontalCenter
             }
         }
